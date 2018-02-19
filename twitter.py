@@ -2,7 +2,6 @@
 
 import tweepy
 import textwrap
-import re
 
 consumer_key = ""
 consumer_secret = ""
